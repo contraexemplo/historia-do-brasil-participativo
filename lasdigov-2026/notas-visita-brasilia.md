@@ -1,4 +1,4 @@
-Coletei mais informações em campo hoje. A escolha pelo Decidim foi mais *política* do que técnica. Fatores de influência, acordo com Ricardo Poppi:
+Coletei mais informações em campo hoje. A escolha pelo Decidim foi mais *política* do que técnica. Fatores de influência:
 
 - Comunitário: Na época, Consul era um projeto mais inativo do que o Decidim. Decidim tinha uma comunidade pulsante, com eventos, contribuições online, etc.
 - No Brasil: A experiência da Nômade Tecnologias para a aplicação do PPA da Prefeitura de Belém.
@@ -8,7 +8,7 @@ Fatores técnicos só foram contemplados posteriormente. ("Talvez, se considerá
 
 Nômade Tecnologias foi essencial para a curva de aprendizado da Dataprev. Mas eles tinham experiência com *implementação* do Decidim, mas não tinham experiência com *desenvolvimento* do Decidim. Lab Livre foi responsável pela formação de profissionais proficientes no desenvolvimento da plataforma de infraestrutura digital. (Nômade Tecnologias não é mais envolvido com o Brasil Participativo hoje. Lab Livre tinha planos para que o envolvimento da cooperativa permanecesse, mas isso não ocorreu. Por quê?)
 
-Mais descobertas:
+Mais descobertas nas discussões de mesa do almoço:
 - Uma coisa é o modelo de comunidade idealizado pelo Decidim no livro. Outra é a realidade material do projeto.
 - Trabalhadores precarizados: salários baixos, abarrotados de demanda. 
 - Decidim serve principalmente aos interesses da cidade de Barcelona porque a cidade de Barcelona é a principal financiadora do projeto.
