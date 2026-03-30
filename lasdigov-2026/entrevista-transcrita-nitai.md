@@ -242,14 +242,6 @@ para que fosse algo contratado para que seja algo contratado e aí sim porque na
 
 É um sistema maior.
 
-**Speaker 1**
-
-É,
-
-**Speaker 1**
-
-é.
-
 **Nitai Bezerra**
 
 E aí ela contratou pessoas para... A Carla, né? Que entende bem, para implementar com essa dimensão. O pai da Khan também, né? E tem o Murilo, o Balton. mas a questão institucional é a construção dentro do órgão e são iniciativas isoladas não foi nada embaixo da bandeira do software público não é uma iniciativa que o governo todo está fazendo e a gente consegue se enxergar seria um software público a iniciativa que aconteceu aqui e outras ali acontece em alguns lugares e falta uma política,
@@ -276,23 +268,7 @@ E ele tem adoção externa?
 
 **Nitai Bezerra**
 
-O Tainacan tem adoção em instituições externas,
-
-**Speaker 1**
-
-saiu do Brasil.
-
-**Nitai Bezerra**
-
-Isso, pois é,
-
-**Speaker 1**
-
-é isso.
-
-**Nitai Bezerra**
-
-simboliza essa base de conhecimento. Eu acho que o Brasil participativo talvez não chegue a esse número, não sei se as políticas estaduais municipais, que seria uma escala bem maior, acentuem cada um ter, porque não o SAS, que é a ideia da minha,
+O Tainacan tem adoção em instituições externas, saiu do Brasil. Simboliza essa base de conhecimento. Eu acho que o Brasil participativo talvez não chegue a esse número, não sei se as políticas estaduais municipais, que seria uma escala bem maior, acentuem cada um ter, porque não o SAS, que é a ideia da minha,
 
 **Giovanna Barbosa**
 
